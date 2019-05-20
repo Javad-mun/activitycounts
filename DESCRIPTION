@@ -17,4 +17,5 @@ Imports:
     seewave,
     data.table,
     stats,
-    utils
+    utils,
+    signal
