@@ -8,7 +8,6 @@
 #'
 #' @export
 #'
-#'
 #' @return returns the number of count which will be used inside tha main function
 #'
 counts = function(data, filesf) {
