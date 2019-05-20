@@ -4,13 +4,15 @@ language: R
 cache: packages
 
 
+
+
 language: r
 r:
   - oldrel
-  - release
-  - devel
+- release
+- devel
 
 
 os:
   - linux
-  - osx
+- osx
