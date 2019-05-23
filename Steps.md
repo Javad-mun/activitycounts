@@ -132,4 +132,5 @@ line-height: 2em;
 
 ========
 to add a help, documentation, file to the package itself, run
-usethis::use_package_doc(). it will create a dummy R file and after doing devtoos::document(), roxygen will create an .Rd file for the package
+usethis::use_package_doc(). it will create a dummy R file and after doing devtoos::document(), roxygen will create an .Rd file for the package.
+When writing the packge document, have a look at this link for more options: https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html
