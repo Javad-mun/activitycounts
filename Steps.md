@@ -130,3 +130,6 @@ line-height: 2em;
 }
 </style>
 
+========
+to add a help, documentation, file to the package itself, run
+usethis::use_package_doc(). it will create a dummy R file and after doing devtoos::document(), roxygen will create an .Rd file for the package
